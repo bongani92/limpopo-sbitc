@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetBranch",
+      "slots": [
+        {
+          "name": "Branch",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    }
+  ]
+}
